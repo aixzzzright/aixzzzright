@@ -21,7 +21,7 @@
 
 
 ## 技术栈🛠️
-<p align="left"> 
+<p align="center">
       &emsp;&emsp;&emsp;
       <!-- 后端和数据库 -->
       <a href=""><img src="https://img.shields.io/badge/R-ED8B00?style=flat-square&logo=R&logoColor=white" ></a>&emsp;
