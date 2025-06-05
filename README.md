@@ -5,7 +5,7 @@
 <a href="https://www.querytransport.cn/" target="_blank"><img  align=center src="https://img.shields.io/badge/物流管理系统-%2303a9f4?style=flat"/></a>&emsp;
 </p>
 -->
-[![160744959694494596](https://user-images.githubusercontent.com/header.png)](https://github.com/aixzzzright)
+[![160744959694494596](https://github.com/aixzzzright/aixzzzright/blob/main/header.png)](https://github.com/aixzzzright)
 <!-- 个人资料 -->
 <p align="center"> 
 <a href="https://space.bilibili.com/110493053" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
