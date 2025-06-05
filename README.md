@@ -8,7 +8,7 @@
 <!-- 个人资料 -->
 <p align="center"> 
 <a href="https://space.bilibili.com/110493053" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
-<a href="https://music.163.com/#/playlist?id=640216180" target="_blank"><img align="center"  src="https://img.shields.io/badge/网易云-歌单-%231a41df?style=flat"/></a>&emsp;
+<a href="https://music.163.com/#/playlist?id=640216180" target="_blank"><img align="center"  src="https://img.shields.io/badge/网易云-歌单-red?style=flat"/></a>&emsp;
 <a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
 </p>
 
