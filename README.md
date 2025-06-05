@@ -9,7 +9,7 @@
 <p align="center"> 
 <a href="https://space.bilibili.com/110493053" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
 <a href="https://music.163.com/#/playlist?id=640216180" target="_blank"><img align="center"  src="https://img.shields.io/badge/网易云-歌单-red?style=flat"/></a>&emsp;
-<a href="https://steamcommunity.com/profiles/76561198218738297" target="_blank"><img align="center" src="https://https://img.shields.io/badge/Steam-主页-black?style=flat"/>&emsp;
+<a href="https://steamcommunity.com/profiles/76561198218738297" target="_blank"><img align="center" src="https://https://img.shields.io/badge/Steam-主页-black?style=flat"/></a>&emsp;
 </p>
 
 ## 个人信息👤    
