@@ -30,5 +30,6 @@
 &emsp;&emsp;&emsp;
 <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=aixzzzright&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
 
-
-
+## 项目推荐🫰
+- [FFmpeg:一个多媒体处理器](https://github.com/FFmpeg/FFmpeg)
+- [Pandoc:文档格式转换工具](https://github.com/jgm/pandoc)
