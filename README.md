@@ -15,8 +15,8 @@
 </p>
 
 ## 个人信息👤    
-东北财经大学金融科技学硕研一在读
-爱好：⚽ 🎮 📖
+-东北财经大学金融科技学硕研一在读
+-爱好：⚽ 🎮 📖
 
 ## 我的项目📚
 - [D-Quant:基于Dify平台的Agent量化交易助手](https://github.com/aixzzzright/D-Quant)
