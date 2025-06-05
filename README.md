@@ -29,7 +29,7 @@
       <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
 &emsp;&emsp;&emsp;
 <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=aixzzzright&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=aixzzzright&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+[[GitHub Streak](https://streak-stats.demolab.com?user=aixzzzright&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 ## 项目推荐🫰
 - [FFmpeg:一个多媒体处理器](https://github.com/FFmpeg/FFmpeg)
 - [Pandoc:文档格式转换工具](https://github.com/jgm/pandoc)
