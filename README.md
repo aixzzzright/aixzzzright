@@ -19,7 +19,7 @@
 爱好：⚽ 🎮 📖
 
 ## 我的项目📚
-- [D-Quant:基于Dify平台的Agent量化交易助手]((https://github.com/aixzzzright/D-Quant)
+- [D-Quant:基于Dify平台的Agent量化交易助手](https://github.com/aixzzzright/D-Quant)
 
 
 ## 技术栈🛠️
