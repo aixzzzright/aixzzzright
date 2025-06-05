@@ -27,7 +27,7 @@
       <a href=""><img src="https://img.shields.io/badge/R-ED8B00?style=flat-square&logo=R&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
-
+&emsp;&emsp;&emsp;
 <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=aixzzzright&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
 
 
