@@ -6,7 +6,7 @@
 </p>
 -->
 [![160744959694494596](https://github.com/aixzzzright/aixzzzright/blob/main/header.png)](https://github.com/aixzzzright)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=靡不有初，鲜克有终)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=靡不有初，鲜克有终)
 <!-- 个人资料 -->
 <p align="center"> 
 <a href="https://space.bilibili.com/110493053" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
