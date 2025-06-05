@@ -27,11 +27,8 @@
       <a href=""><img src="https://img.shields.io/badge/R-ED8B00?style=flat-square&logo=R&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
-</p>
-<!--
-<p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
--->
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=aixzzzright&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aixzzzright&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
 
 
