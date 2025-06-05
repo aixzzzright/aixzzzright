@@ -14,7 +14,7 @@
 <a href="https://steamcommunity.com/profiles/76561198218738297" target="_blank"><img align="center"  src="https://img.shields.io/badge/Steam-社区-blue?style=flat"/></a>&emsp;
 </p>
 
-## 个人信息👤    
+## 个人信息👤   ![](https://komarev.com/ghpvc/?username=aixzzzright&color=blue&style=flat-square)
 - 东北财经大学金融科技学硕研一在读
 - 爱好：⚽ 🎮 📖
 
